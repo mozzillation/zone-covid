@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@types/gtag.js": "^0.0.4",
-    "@types/node": "^15.0.1",
+    "@types/node": "^16.4.0",
     "@types/react": "^17.0.0",
     "concurrently": "^6.0.2",
     "globby": "^11.0.2",
